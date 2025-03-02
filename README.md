@@ -11,6 +11,9 @@ A simple unit converter web application that converts between metric and imperia
 
 ![Unit Converter Screenshot](./screen%20shot.png)
 
+## Live Demo
+
+Check out the live demo of the Unit Converter: [https://vipyan.github.io/Metric-converter/](https://vipyan.github.io/Metric-converter/)
 
 ## Technologies Used
 
